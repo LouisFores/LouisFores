@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Louis Fores</h1>
 <h3 align="center">An enthusiastic developer from Vietnam</h3>
-<img align="right" alt="Coding" src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif">
+<img align="right" alt="Coding" width="200px" height="350px" src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif">
 
 - 🌱 I’m currently learning **ReactJS**
 
