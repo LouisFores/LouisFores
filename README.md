@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Louis Fores</h1>
 <h3 align="center">An enthusiastic developer from Vietnam</h3>
-<img align="right" alt="Coding" width="200px" height="350px" src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif">
+
+<img align="right" alt="Coding" width="300px"  src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=louisfores&label=Profile%20views&color=0e75b6&style=flat" alt="louisfores" /> </p>
 
 - 🌱 I’m currently learning **ReactJS**
 
