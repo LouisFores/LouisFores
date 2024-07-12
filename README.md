@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 📫 How to reach me **lephamminhhieu2903@gmail.com**
+- 📫 How to reach me **https://portfolio-production-762f.up.railway.app**
 
 - ⚡ Fun fact **I am friendly**
   
