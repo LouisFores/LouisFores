@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Le Pham Minh Hieu</h1>
 <h3 align="center">An enthusiastic developer from Vietnam</h3>
 
-<img align="right" alt="Coding" width="350px" src="https://i.pinimg.com/originals/68/47/c1/6847c1e514c264589d5233d2c41bbecd.gif">
-
 - 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **https://portfolio-production-762f.up.railway.app**
